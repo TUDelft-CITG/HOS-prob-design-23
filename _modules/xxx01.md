@@ -1,13 +1,10 @@
 ---
-title: Week 1
+title: Introduction to Java
 ---
 
-April 28 (Fri)
-: [Extreme Value Analysis](#)
-  : [ADK X](#)
-
-Holidays
-: Thursday (King's Day)
+Sep 28
+: [Java & Git](#)
+  : [1.1](#)
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
