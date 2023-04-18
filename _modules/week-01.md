@@ -4,12 +4,13 @@ title: Week 1
 
 April 24
 : **Introduction:** Probabilistic Design Unit
-: Module and unit introduced on Monday
+: *module and unit introduced on Monday in other units*
 : Required reading/videos before Friday session
   : [ADK X](#)
 
 April 26
-: **CIEM4220 Dams, Dikes and Breakwaters** Wed 13:45, Hall C (Antonini)
+: Students in: CIEM4220 Dams, Dikes and Breakwaters
+: Wed 13:45, Hall C (Antonini)
 : Required reading prior to the lecture 
   : [OT-EVA 1.2](https://tudelft-citg.github.io/HOS-prob-design/EVA/RT.html)
 
