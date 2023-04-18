@@ -2,7 +2,7 @@
 title: Week 6
 ---
 
-F June 2
+June 2
 : In-Class Session
   : 
 

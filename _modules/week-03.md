@@ -2,7 +2,7 @@
 title: Week 3
 ---
 
-F May 12
+May 12
 : In-Class Session
   : 
 

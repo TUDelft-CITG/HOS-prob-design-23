@@ -2,7 +2,7 @@
 title: Week 7
 ---
 
-F June 9
+June 9
 : In-Class Session
   : 
 

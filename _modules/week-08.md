@@ -2,7 +2,7 @@
 title: Week 8
 ---
 
-F June 16
+June 16
 : In-Class Session
   : 
 

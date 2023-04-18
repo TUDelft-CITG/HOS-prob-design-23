@@ -2,7 +2,7 @@
 title: Week 5
 ---
 
-F May 26
+May 26
 : In-Class Session
   : 
 ...
