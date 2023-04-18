@@ -2,12 +2,15 @@
 title: Week 5
 ---
 
-May 26 (Fri)
+F May 26
+: In-Class Session
+  : 
+...
 : **Workshop**{: .label .label-purple } Component Reliability **HW 3 Due**{: .label .label-red }
   : [ADK X](#)
 
-May 26 (Fri)
-: Introduction to Component Reliability **Start HW 3**{: .label .label-red }
+...
+: Component Reliability, Part 2 **Start HW 4**{: .label .label-red }
   : [ADK X](#)
 
 Holidays
