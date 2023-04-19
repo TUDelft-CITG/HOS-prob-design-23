@@ -1,6 +1,6 @@
 ---
 title: Week 1 Announcement
-week: 1
+week: 2
 date: 2023-04-08
 ---
 
