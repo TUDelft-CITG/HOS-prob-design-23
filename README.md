@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: CIE42X0 Prob Design
 nav_exclude: true
 permalink: /:path/
 seo:

@@ -1,8 +1,8 @@
 ---
-name: Really Evil Kevin
+name: Benjamin Ramousse
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+# email: me@example.com
+# website: https://kevinl.info
 photo: kevin.jpg
 ---
 
