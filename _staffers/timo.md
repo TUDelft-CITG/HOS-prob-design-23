@@ -2,7 +2,7 @@
 name: Timo Schweckendiek
 role: Instructor
 email: Week 8, Proven Strength
-photo: kevin.jpg
+photo: dog.jpg
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->
