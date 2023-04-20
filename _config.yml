@@ -28,8 +28,16 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  This page on GitHub:
-    - 'https://github.com/TUDelft-CITG/HOS-prob-design-23'
+  CIEM4210:
+    - 'https://brightspace.tudelft.nl/d2l/home/520138'
+  CIEM4220:
+    - 'https://brightspace.tudelft.nl/d2l/home/520140'
+  CIEM4230:
+    - 'https://brightspace.tudelft.nl/d2l/home/520142'
+  HOS book:
+    - 'file:///C:/Users/rlanzafame/code/TUDelft-CITG/HOS-prob-design/book/_build/html/intro.html'
+  ADK book:
+    - ''
 footer_content:
 
 # Collections for website data

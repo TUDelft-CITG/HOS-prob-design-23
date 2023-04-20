@@ -31,8 +31,26 @@ Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate d
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+https://doi.org/10.1017/9781108991889
 
+Der Kiureghian, A. (2022). Structural and System Reliability. Cambridge: Cambridge University Press. doi:10.1017/9781108991889
+
+
+<!-- @book{der kiureghian_2022, place={Cambridge}, title={Structural and System Reliability}, DOI={10.1017/9781108991889}, publisher={Cambridge University Press}, author={Der Kiureghian, Armen}, year={2022}} -->
+
+You can only read the texbook online if you are connected to the TU Delft wifi or using a VPN (use the eduVPN software if you are off campus). You can confirm you have access by checking if a green "Access" button appears at the top of [this website](https://doi.org/10.1017/9781108991889) and a "Read online" button is visible below the book description. Once clicking "Read online" you can continue with "read only access" (registering for an account does not seem to provide any worthwhile reading benefits).
+
+{: .note }
+The online textbook loads **very** slowly. It works by loading each chapter one at a time, and sometimes it takes several minutes per chapter. This is obviously annoying, but we have not found a way around it yet. The best strategy is to click on the Chapter you need and wait patiently for it to load. Once it is there, you can view all the contents in that chapter, either by scrolling up and down, or clicking the section links in the Table of Contents. For the required reading listed in the calendar, we will place links to the required chapter to make this process a bit easier (but unfortunately you will still have to wait for it to load). Please let Robert know if you find a better solution!
+
+[Chapter 3: Multivariate Distributions](https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc10)
+[Chapter 4: Formulation of Structural Reliability](https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc11)
+[Chapter 6: The First-Order Reliability Method](https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc13)
+[Chapter 8: System Reliability](https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc15/pos_15.0)
+
+[Chapter 2](https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc9) is pre-requisite material for our course, and can be skipped, but may be useful to refer back to as we go, especially to check the notation used throughout the textbook.
+
+Although we will touch on a few topics from [Chapter 5](https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc12), it is not the focus of this course. However, it gives an interesting perspective on a few other reliability methods that are widely used in practice (despite having some well-known issues), so this can be a very useful chapter to refer back to later, especially when trying to understand an unfamiliar reliability technique that may have been used by other engineers or researchers.
 ## Assignments
 
 Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
