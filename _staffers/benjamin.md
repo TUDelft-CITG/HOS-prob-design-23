@@ -6,4 +6,4 @@ role: Teaching Assistant
 photo: dog.jpg
 ---
 
-I like teaching Computer Science!
+I like probability!
