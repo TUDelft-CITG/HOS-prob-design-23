@@ -1,7 +1,7 @@
 ---
 name: Benjamin Ramousse
 role: Teaching Assistant
-# email: me@example.com
+email: B.R.Ramousse@tudelft.nl
 # website: https://kevinl.info
 photo: dog.jpg
 ---
