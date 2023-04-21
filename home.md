@@ -8,12 +8,12 @@ seo:
   name: CIE42X0 Probabilistic Design course materials
 ---
 
-# {{ site.tagline }}
-{: .mb-2 }
+# Welcome to {{ site.tagline }}
+<!-- {: .mb-2 }
 {{ site.description }}
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 } -->
 
-## Welcome to CIEM42X0: Probabilistic Design 
+CIE42X0 is part of three B module units ([CIEM4210](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63755), [CIEM4220](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756), [CIEM4230](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63757)) offered in Q4 of the Hydraulic and Offshore Structures (HOS) track in the Civil Engineering MSc program at TU Delft.
 
 This page shows the most recent Accouncement and the Calendar. For more information check the appropriate pages on the left. Links to Brightspace and the course textbooks are at the top.
 
