@@ -6,8 +6,15 @@ description: >-
     Information about lectures, materials and assignments.
 ---
 
-# Important Information about this Unit
+# Information about this Unit
 {:.no_toc}
+
+This unit is is part of three B modules offered in Q4 of the Hydraulic and Offshore Structures (HOS) track in the Civil Engineering MSc program at TU Delft:
+- [CIEM4210 Marine Renewables](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63755)
+- [CIEM4220 Dams, Dikes and Breakwaters](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756)
+- [CIEM4230 Floating and Submerged Structures](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63757)
+
+Most importantly, we are going to do some very fun things with probability!
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -16,15 +23,6 @@ description: >-
 {:toc}
 
 ---
-
-## Overview
-
-his unit is is part of three B modules offered in Q4 of the Hydraulic and Offshore Structures (HOS) track in the Civil Engineering MSc program at TU Delft:
-- [CIEM4210 Marine Renewables](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63755)
-- [CIEM4220 Dams, Dikes and Breakwaters](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756)
-- [CIEM4230 Floating and Submerged Structures](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63757)
-
-We are going to do some very fun things with probability!
 
 ## Friday In-Class Sessions
 
@@ -54,7 +52,7 @@ JB
 
 We will use the textbook [Structural and System Reliability](https://doi.org/10.1017/9781108991889) for the component and system reliability part of the course:
 
-> Der Kiureghian, A. (2022). Structural and System Reliability. Cambridge: Cambridge University Press. doi:10.1017/9781108991889>
+> Der Kiureghian, A. (2022). Structural and System Reliability. Cambridge: Cambridge University Press. doi:10.1017/9781108991889
 
 <!-- @book{der kiureghian_2022, place={Cambridge}, title={Structural and System Reliability}, DOI={10.1017/9781108991889}, publisher={Cambridge University Press}, author={Der Kiureghian, Armen}, year={2022}} -->
 
@@ -62,10 +60,8 @@ There are a few hard copies on reserve in the TU Delft library, and Robert also 
 
 **LINK TESTS**
 <a href="https://doi.org/10.1017/9781108991889" target="_blank">doi link only</a>  
-<a href="https://www-cambridge-org.tudelft.idm.oclc.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57#overview" target="_blank">Benjamin's link</a>
+<a href="https://www-cambridge-org.tudelft.idm.oclc.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57#overview" target="_blank">Benjamin's link</a>  
 <a href="https://www.cambridge.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57" target="_blank">generic link?</a>  
-
-Test with HTML inline <a href="https://www.cambridge.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57" target="_blank">link</a> to open in new tab.
 **END LINK TESTS**
 
 
