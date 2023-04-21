@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Unit Information
+nav_order: 1
 description: >-
     Information about lectures, materials and assignments.
 ---
 
-# About
+# Important Information about this Unit
 {:.no_toc}
 
 ## Table of contents
@@ -16,7 +17,7 @@ description: >-
 
 ---
 
-## About
+## Overview
 
 his unit is is part of three B modules offered in Q4 of the Hydraulic and Offshore Structures (HOS) track in the Civil Engineering MSc program at TU Delft:
 - [CIEM4210 Marine Renewables](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63755)
@@ -25,7 +26,7 @@ his unit is is part of three B modules offered in Q4 of the Hydraulic and Offsho
 
 We are going to do some very fun things with probability!
 
-## Lecture
+## Friday In-Class Sessions
 
 Super exciting. We will skip a few of them.
 
