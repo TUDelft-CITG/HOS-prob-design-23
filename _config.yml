@@ -19,7 +19,7 @@ description: A unit in the B module of the track Hydraulic and Offshore Structur
 author: Robert Lanzafame
 baseurl: '/HOS-prob-design-23' # the subpath of your site, e.g. /blog
 url: 'https://tudelft-citg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.0
@@ -35,9 +35,9 @@ aux_links:
   CIEM4230:
     - 'https://brightspace.tudelft.nl/d2l/home/520142'
   HOS book:
-    - 'file:///C:/Users/rlanzafame/code/TUDelft-CITG/HOS-prob-design/book/_build/html/intro.html'
+    - 'https://tudelft-citg.github.io/HOS-prob-design/intro.html'
   ADK book:
-    - ''
+    - 'https://doi.org/10.1017/9781108991889'
 footer_content:
 
 # Collections for website data
