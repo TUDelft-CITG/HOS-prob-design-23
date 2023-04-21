@@ -2,7 +2,7 @@
 layout: page
 title: Unit Information
 description: >-
-    Course policies and information.
+    Information about lectures, materials and assignments.
 ---
 
 # About
@@ -18,18 +18,38 @@ description: >-
 
 ## About
 
-A unit that is part of three HOS B Modules:
+his unit is is part of three B modules offered in Q4 of the Hydraulic and Offshore Structures (HOS) track in the Civil Engineering MSc program at TU Delft:
 - [CIEM4210 Marine Renewables](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63755)
 - [CIEM4220 Dams, Dikes and Breakwaters](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756)
 - [CIEM4230 Floating and Submerged Structures](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63757)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+We are going to do some very fun things with probability!
 
 ## Lecture
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Super exciting. We will skip a few of them.
 
+## Assignments
+
+How are we actually grading these?
+### Homework
+
+Do them.
+
+### Workshops
+
+Easier if you do the homework.
+
+### Projects
+
+You will do stuff in other units.
 ## Resources
+
+### HOS Book
+
+JB
+
+### ADK Book
 
 https://doi.org/10.1017/9781108991889
 
@@ -51,6 +71,9 @@ The online textbook loads **very** slowly. It works by loading each chapter one 
 [Chapter 2](https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc9) is pre-requisite material for our course, and can be skipped, but may be useful to refer back to as we go, especially to check the notation used throughout the textbook.
 
 Although we will touch on a few topics from [Chapter 5](https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc12), it is not the focus of this course. However, it gives an interesting perspective on a few other reliability methods that are widely used in practice (despite having some well-known issues), so this can be a very useful chapter to refer back to later, especially when trying to understand an unfamiliar reliability technique that may have been used by other engineers or researchers.
-## Assignments
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+### Other Resources
+
+Website, older textbooks, papers, etc.
+
+Old Prob Design Lecture Notes.
