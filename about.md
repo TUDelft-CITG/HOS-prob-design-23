@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Unit Information
 description: >-
     Course policies and information.
 ---

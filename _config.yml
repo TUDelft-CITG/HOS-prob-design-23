@@ -21,6 +21,10 @@ baseurl: '/HOS-prob-design-23' # the subpath of your site, e.g. /blog
 url: 'https://tudelft-citg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.0
 color_scheme: light
@@ -38,7 +42,7 @@ aux_links:
     - 'https://tudelft-citg.github.io/HOS-prob-design/intro.html'
   ADK book:
     - 'https://doi.org/10.1017/9781108991889'
-footer_content:
+footer_content: 'Robert Lanzafame &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:
