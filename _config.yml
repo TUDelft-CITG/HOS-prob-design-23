@@ -42,6 +42,7 @@ aux_links:
     - 'https://tudelft-citg.github.io/HOS-prob-design/intro.html'
   ADK book:
     - 'https://doi.org/10.1017/9781108991889'
+aux_links_new_tab: true
 footer_content: 'Robert Lanzafame &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
