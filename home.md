@@ -27,6 +27,8 @@ Read the ["Getting Started" announcement]({{site.url}}{{ site.baseurl }}/announc
 
 ## Calendar
 
+*See Calendar page for explanation of lecture halls, course structure and notation.*
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
