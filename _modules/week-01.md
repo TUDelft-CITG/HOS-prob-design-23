@@ -20,7 +20,7 @@ April 26
   : [HOS-EVA 1.2](https://tudelft-citg.github.io/HOS-prob-design/EVA/RT.html) 1.1, 1.3, 2.3
 
 April 28
-: ~~In-Class Session~~ Cancelled
+: ~~In-Class Session~~ *Cancelled*
   : 
 : Extreme Value Analysis **Start HW 2**{: .label .label-red }
   : [HOS-EVA ...](#)
