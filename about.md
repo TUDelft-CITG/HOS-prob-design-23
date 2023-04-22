@@ -45,13 +45,13 @@ This unit has two types of assignments: homework and workshops, both of which wi
 
 Homework assignments are a mix of analytic and coding exercises to prepare you for the Friday workshops, as well as your B module design assignments and exams. In most cases they do not need to be turned in, and solutions will be shared after the due dates indicated in the calendar for you to check your work. We are working on setting up an autograder to help you check whether or not your code is working as expeced, which would be optional. This involves pushing your code to a GitLab repository we create for you, similar to what we did in MUDE; more information will be provided about this in week 3.
 
-The recommended dates for you to start and finish the homework assignments are indicated in the calendar with these buttons: **Start HW 1**{: .label .label-red } and **HW 1 Due**{: .label .label-red }.
+The recommended dates for you to start and finish the homework assignments are indicated in the calendar with these buttons: <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a>{: .label .label-red } and <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a>{: .label .label-red }. Note that the buttons contain links that take you to the assignments and solutions in the HOS book (once they are available).
 
 ### Workshops
 
 These are meant to be completed in class on Fridays, and build directly on the homework assignments; in some cases you will be asked to use the code from your homework assignment in the workshop. After completing a few calculations, the workshops will emphasize interpreting the results and making decisions to help you in the design of your structure and systems, especially as required for your design projects and exams.
 
-You are not expected to turn in the workshop assignments, and solutions will be provided in the HOS book after the session. Workshops are shown in the calendar with a purple button like this: **Workshop**{: .label .label-purple }.
+You are not expected to turn in the workshop assignments, and solutions will be provided in the HOS book after the session. Workshops are shown in the calendar with a purple button like this: <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Workshop</a>{: .label .label-purple }
 
 ### Design Assignments and Projects
 
