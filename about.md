@@ -59,13 +59,13 @@ Depending on your B module, you will work on a design-oriented project. Each of 
 
 ## Resources
 
-There are two primary resources for this unit, both of which can be accessed online. The first (HOS book) is an online textbook 
+There are two primary resources for this unit, both of which can be accessed online.
 
 ### HOS Book
 
 The <a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">HOS book</a> is an online textbook similar to that used in MUDE for weeks 2.7-2.8. In addition to technical content, it will also be used to share the homework and workshop assignments. It has three main parts:
 - **Probabilistic Design**: chapters in this part contain an introduction to the course and various topics related to component and structural reliability that are not covered in the ADK book. Reading from this chapter is listed in the calendar with a link, for example, <a href="https://tudelft-citg.github.io/HOS-prob-design/PD/overview.html" target="_blank">HOS-PD-1</a> is Chapter 1 of the Probabilistic Design part.
-- **Extreme Value Analysis**: chapters in this part provide underlying theory to help understand the EVA procedure that is key for assessing hydraulic loads in HOS projects. Material for extreme value analysis Reading from this chapter is listed in the calendar with a link, for example, <a href="https://tudelft-citg.github.io/HOS-prob-design/EVA/overview.html" target="_blank">HOS-EVA-1</a> is Chapter 1 of the Extreme Value Analysis part. The EVA material from MUDE is also included in this part of the HOS book for you to be able to refer to it easily (<a href="https://tudelft-citg.github.io/HOS-prob-design/EVA/MUDE.html" target="_blank">HOS-EVA-6</a>).
+- **Extreme Value Analysis**: chapters in this part provide underlying theory to help understand the EVA procedure that is key for assessing hydraulic loads in HOS projects. Reading from this chapter is listed in the calendar with a link, for example, <a href="https://tudelft-citg.github.io/HOS-prob-design/EVA/overview.html" target="_blank">HOS-EVA-1</a> is Chapter 1 of the Extreme Value Analysis part. The EVA material from MUDE is also included in this part of the HOS book for you to be able to refer to it easily (<a href="https://tudelft-citg.github.io/HOS-prob-design/EVA/MUDE.html" target="_blank">HOS-EVA-6</a>).
 - **Homework** and **Workshop** assignments and solutions will be added to the HOS book throughout Q4, as described above.
 
 This book will be actively updated throughout the quarter; primarily with assignments and solutions, but also new technical content may be added, depending on questions and needs from students. The home page of the HOS book will list the updates made throughout the quarter. D epending on the importance or urgency, some (but not all) of these updates may also be communicated via announcements on this website or the Brightspace page for your B module.
