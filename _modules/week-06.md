@@ -6,11 +6,11 @@ title: Week 6
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a> -->
 
 June 2
-: In-Class Session
+: In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 4 Due</a>{: .label .label-red }
   : 
-: **Workshop**{: .label .label-purple } Component Reliability 2 **HW 4 Due**{: .label .label-red }
+: **Workshop**{: .label .label-purple } Component Reliability 2
   : [ADK X](#)
-: System Reliability **Start HW 5**{: .label .label-red }
+: <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 5</a>{: .label .label-red } System Reliability
   : [ADK X](#)
 
 Holidays

@@ -6,7 +6,7 @@ title: Week 8
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a> -->
 
 June 16
-: In-Class Session
+: In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 6 Due</a>{: .label .label-red }
   : 
 : **Workshop**{: .label .label-purple } Proven Strength **HW 6 Due**{: .label .label-red }
   : [ADK X](#)

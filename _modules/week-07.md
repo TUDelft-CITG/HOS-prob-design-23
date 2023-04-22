@@ -6,11 +6,11 @@ title: Week 7
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a> -->
 
 June 9
-: In-Class Session
+: In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 5 Due</a>{: .label .label-red }
   : 
 : **Workshop**{: .label .label-purple } System Reliability **HW 5 Due**{: .label .label-red }
   : [ADK X](#)
-: Proven Strength **Start HW 6**{: .label .label-red }
+: <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 6</a>{: .label .label-red } Proven Strength
   : [ADK X](#)
 
 Holidays
