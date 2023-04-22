@@ -2,6 +2,8 @@
 title: Week 7
 ---
 
+<!-- <a href="" target="_blank">link</a> -->
+
 June 9
 : In-Class Session
   : 

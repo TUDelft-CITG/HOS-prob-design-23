@@ -2,6 +2,8 @@
 title: Week 6
 ---
 
+<!-- <a href="" target="_blank">link</a> -->
+
 June 2
 : In-Class Session
   : 
