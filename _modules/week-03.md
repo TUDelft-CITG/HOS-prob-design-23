@@ -10,7 +10,7 @@ title: Week 3
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a> -->
 
 May 12
-: In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 2 Due</a>{: .label .label-red } <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 3 Due</a>{: .label .label-red }
+: In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 1 Due</a>{: .label .label-red } <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 2 Due</a>{: .label .label-red }
   : 
 : **Workshop**{: .label .label-purple } Extreme Value Analysis 
   : <a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">HOS-EVA-all</a>

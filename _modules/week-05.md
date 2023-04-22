@@ -8,7 +8,7 @@ title: Week 5
 May 26
 : In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 3 Due</a>{: .label .label-red }
   : 
-: **Workshop**{: .label .label-purple } Component Reliability **HW 3 Due**{: .label .label-red }
+: **Workshop**{: .label .label-purple } Component Reliability
   : [ADK X](#)
 : <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 4</a>{: .label .label-red } Component Reliability, Part 2
   : [ADK X](#)
