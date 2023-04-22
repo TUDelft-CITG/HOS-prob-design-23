@@ -4,6 +4,7 @@ title: Week 1
 
 <!-- <a href="" target="_blank">link</a> -->
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">HOS book</a> -->
+<!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a> -->
 April 24
 : **Introduction:** Probabilistic Design Unit
 : *module and unit introduced on Monday in other units*
