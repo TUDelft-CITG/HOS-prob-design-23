@@ -87,6 +87,6 @@ Although we will touch on a few topics from <a href="https://ereader.cambridge.o
 
 ### Other Resources
 
-This unit replaced a 1st-year MSc course CIE4130 Probabilistic Design in the old curriculum. The lecture notes (14MB) can be downloaded <a href="https://surfdrive.surf.nl/files/index.php/s/acbbK9bZ2fAjOx1" attributes-list download>here</a>.  In particular, the chapters on structural reliability and system reliability may be interesting.
+This unit replaced a 1st-year MSc course CIE4130 Probabilistic Design in the old curriculum. The lecture notes (14MB) can be downloaded <a href="https://surfdrive.surf.nl/files/index.php/s/acbbK9bZ2fAjOx1/download" attributes-list download>here</a>.  In particular, the chapters on structural reliability and system reliability may be interesting.
 
 Additional material will be added here and organized on an as-needed bases. 
