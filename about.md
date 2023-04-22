@@ -40,7 +40,7 @@ The format of the in-class sessions will be workshop-style, where you will work 
 
 ## Assignments
 
-This unit has two types of assignments: homework and workshops, both of which will be shared via the HOS book (introduced below). 
+This unit has two types of assignments: homework and workshops, both of which will be shared via the HOS book (introduced below). For all assignments in this unit, you are encouraged to work collaboratively; however, we also encourage you to work out analytic exercises yourself and write your own code, as this is a valuable part of the learning process.
 ### Homework
 
 Homework assignments are a mix of analytic and coding exercises to prepare you for the Friday workshops, as well as your B module design assignments and exams. In most cases they do not need to be turned in, and solutions will be shared after the due dates indicated in the calendar for you to check your work. We are working on setting up an autograder to help you check whether or not your code is working as expeced, which would be optional. This involves pushing your code to a GitLab repository we create for you, similar to what we did in MUDE; more information will be provided about this in week 3.
