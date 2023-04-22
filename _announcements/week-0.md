@@ -4,7 +4,9 @@ week: 0
 date: 2023-04-21
 ---
 
-We decided to start this unit off with good news: **the in-class session on Friday during Week 1 is cancelled!** With the holiday on Thursday, we thought many of you might enjoy the chance to sleep in.
+<!-- <a href="" target="_blank">link</a> -->
+
+We decided to start this unit off with good news: **the in-class session on Friday during Week 1 is cancelled!** With the holiday on Thursday, we thought many of you might enjoy the chance to sleep in. It should disappear from your course calendar within a day or two.
 
 However, there is still plenty of fun for you to have with this unit during Week 1: we have prepared a few short videos to introduce the material and a quick refresher of our first main topic, Extreme Value Analysis. There is also some reading and two homework assignments you can start, which are listed in the Calendar page under Week 1 (both assignments can be done over the first 3 weeks of Q4). Please read through the "Unit Information" page on this website to get an overview for how the unit will work, and what our expectations are. If you have any questions, please send Robert an email. Depending on how many questions come in, I may set up a FAQ page on the website.
 
