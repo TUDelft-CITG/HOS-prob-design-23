@@ -52,6 +52,9 @@ JB
 
 We will use the textbook *Structural and System Reliability* for the component and system reliability part of the course:
 
+{: .note-title }
+> Textbook
+> 
 > Der Kiureghian, A. (2022). Structural and System Reliability. Cambridge: Cambridge University Press. doi:10.1017/9781108991889
 
 <!-- @book{der kiureghian_2022, place={Cambridge}, title={Structural and System Reliability}, DOI={10.1017/9781108991889}, publisher={Cambridge University Press}, author={Der Kiureghian, Armen}, year={2022}} -->
@@ -62,18 +65,13 @@ A description of the book can be found at the <a href="https://doi.org/10.1017/9
 
 <!-- <a href="" target="_blank">link</a> -->
 
-{: .important }
+{: .important-title }
 > Important Online Textbook Info 
->
-> test
->
-> test
-
-<!-- <a href="https://www-cambridge-org.tudelft.idm.oclc.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57#overview" target="_blank">This link</a> is the best way to access the online textbook and requires a TU Delft login. Once clicking "Read online" you can continue with "read only access" (registering for an account does not seem to provide any worthwhile reading benefits). 
->
+> <a href="https://www-cambridge-org.tudelft.idm.oclc.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57#overview" target="_blank">This link</a> is the best way to access the online textbook and requires a TU Delft login. Once clicking "Read online" you can continue with "read only access" (registering for an account does not seem to provide any worthwhile reading benefits). 
+> 
 > The online textbook loads **very** slowly. It works by loading each chapter one at a time, and sometimes it takes several minutes per chapter. This is obviously annoying, but we have not found a way around it yet. The best strategy is to click on the Chapter you need and wait patiently for it to load. Once it is there, you can view all the contents in that chapter, either by scrolling up and down, or clicking the section links in the Table of Contents. For the required reading listed in the calendar, we will place links to the required chapter to make this process a bit easier (but unfortunately you will still have to wait for it to load). Please let Robert know if you find a better solution! 
->
-> Most links on this website will refer to specific chapters and reading in the textbook; once logged in with your TUD account, you should be able to open these links to the chapters directly. If the link does not work, try starting at the main book page and navigating to the necessary chapter using the Table of Contents (and let Robert know about the broken link!).  -->
+> 
+> Most links on this website will refer to specific chapters and reading in the textbook; once logged in with your TUD account, you should be able to open these links to the chapters directly. If the link does not work, try starting at the main book page and navigating to the necessary chapter using the Table of Contents (and let Robert know about the broken link!). 
 
 For CIE42X0 we will rely most on the following chapters:  
 - <a href="https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc10" target="_blank">Chapter 3: Multivariate Distributions</a> 
