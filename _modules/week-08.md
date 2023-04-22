@@ -9,7 +9,6 @@ June 16
 : In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 6 Due</a>{: .label .label-red }
   : 
 : **Workshop**{: .label .label-purple } Proven Strength
-  : [ADK X](#)
 : Course Closure
   : 
 
