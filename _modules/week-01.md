@@ -3,12 +3,15 @@ title: Week 1
 ---
 
 <!-- <a href="" target="_blank">link</a> -->
-
+<!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">HOS book</a> -->
 April 24
 : **Introduction:** Probabilistic Design Unit
 : *module and unit introduced on Monday in other units*
-: Required reading/videos before Friday session
+: <a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">**Start HW 1**</a>{: .label .label-red }
+: **<a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">Start HW 1</a>**{: .label .label-red }
+: <a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">Start HW 1</a>{: .label .label-red }
   : [ADK X](https://doi.org/10.1017/9781108991889)
+: *Anytime during week 1*
 
 April 26
 : Students in: CIEM4220 Dams, Dikes and Breakwaters
@@ -19,7 +22,7 @@ April 26
 April 28
 : ~~In-Class Session~~ Cancelled
   : 
-: Extreme Value Analysis **Start HW 1**{: .label .label-red }
+: Extreme Value Analysis **Start HW 2**{: .label .label-red }
   : [HOS-EVA ...](#)
 
 Holidays
