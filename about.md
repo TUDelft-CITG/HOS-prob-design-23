@@ -17,6 +17,8 @@ This unit is is part of three B modules offered in Q4 of the Hydraulic and Offsh
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756" target="_blank">CIEM4220 Dams, Dikes and Breakwaters</a>
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63757" target="_blank">CIEM4230 Floating and Submerged Structures</a>
 
+ Each HOS B Module has three units: B-1 Probabilistic Design (this unit), B-2, Computational Modeling and B-3 Design of the structures related to the modules mentioned above.
+
 Although each of these B modules look at a wide range of structures, there are a couple important things in common: hydraulic loads govern the design of each system and structure; and failures can lead to significant consequences related to economic damages and loss of life. There is a high level of uncertainty in the hydraulic loads as well as the geotechnical conditions where these systems are operating. This makes probability, risk analysis and reliability-based design key tools for the design, assessment and maintenance of these structures. The purpose of the unit CIEM42X0 Probabilistic Design is to support you in this effort for your system and structure of interest. As such, the unit is built on several key elements:
 - Three primary technical topics: 1) extreme value analysis (weeks 1-3), 2) component reliability (weeks 4-6) and 3) system reliability (week 7)
 - A series of (online) reading assignments and exercises (homework)
