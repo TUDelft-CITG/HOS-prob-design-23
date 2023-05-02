@@ -1,5 +1,5 @@
 ---
-title: EVA Videos Posted
+title: Week 2 note and video slides posted
 week: 1
 date: 2023-05-02
 ---
