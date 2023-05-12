@@ -13,7 +13,7 @@ April 24
 : **Introduction:** Probabilistic Design Unit
 : *Module and unit introduced on Monday in other units*
 : <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_01_assignment.html" target="_blank">Start HW 1</a>{: .label .label-red } Reliability Analysis Introduction 
-  : <a href="https://tudelft-citg.github.io/HOS-prob-design/PD/01_00_intro.html" target="_blank">HOS-PD-1</a>, <a href="https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc11" target="_blank">ADK-4</a>
+  : <a href="https://tudelft-citg.github.io/HOS-prob-design/PD/01_00_intro.html" target="_blank">HOS-PD-1</a>, <a href="https://www-cambridge-org.tudelft.idm.oclc.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57#overview" target="_blank">ADK-4</a>
 : *Start HW 1 anytime during week 1; TA Fri by request.*
 
 April 26

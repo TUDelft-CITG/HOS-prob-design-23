@@ -14,8 +14,8 @@ May 12
   : 
 : **Workshop**{: .label .label-purple } Extreme Value Analysis 
   : <a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">HOS-EVA-all</a>
-: <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 3</a>{: .label .label-red } Component Reliability
-  : <a href="https://ereader.cambridge.org/wr/viewer.html#book/b465a335-deca-4553-b09f-8989cf136370/doc13" target="_blank">ADK-3.6, 6.1-6.3, 6.5</a>
+: <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_03_assignment.html" target="_blank">Start HW 3</a>{: .label .label-red } Component Reliability
+  : <a href="https://www-cambridge-org.tudelft.idm.oclc.org/highereducation/books/structural-and-system-reliability/7B7F299239AD41812A0C3E2E93B3CA57#overview" target="_blank">ADK-3.6, 6.1-6.3, 6.5</a>
 
 Holidays
 : None
