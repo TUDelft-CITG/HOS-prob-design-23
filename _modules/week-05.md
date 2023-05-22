@@ -5,6 +5,8 @@ title: Week 5
 <!-- <a href="" target="_blank">link</a> -->
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">Start HW 1</a> -->
 
+May 24
+: **Question Hour HW 3**{: .label .label-purple } (Benjamin) 15:00-16:30. Room: TBD.
 May 26
 : In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/unlisted/assignment.html" target="_blank">HW 3 Due</a>{: .label .label-red }
   : 
