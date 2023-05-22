@@ -1,5 +1,5 @@
 ---
-title: HW3 posted
+title: HW3 reminder and question hour Wednesday
 week: 5
 date: 2023-05-22
 ---
