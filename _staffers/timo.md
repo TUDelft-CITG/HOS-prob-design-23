@@ -1,7 +1,7 @@
 ---
 name: Timo Schweckendiek
 role: Instructor
-email: Week 8, Proven Strength
+email: Week 8, Event Tree Case Study
 photo: timo.jpg
 ---
 
