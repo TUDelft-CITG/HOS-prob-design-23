@@ -1,6 +1,6 @@
 # README
 
-Description.
+This is the course website for [Probabilistic Design](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756), part of 3 modules in the MSc Civil Engineering Program at Delft University of Technology, the Netherlands. Created by Robert Lanzafame.
 
 The website built by this repo is [here](https://tudelft-citg.github.io/HOS-prob-design-23/).
 
