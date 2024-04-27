@@ -12,6 +12,9 @@ description: >-
 # Information about this Unit
 {:.no_toc}
 
+This website is for the 2022-23 academic year and is no longer maintained. Current HOS students should visit Brightspace or contact Robert Lanzafame directly.
+{: .warning }
+
 This unit is is part of three B modules offered in Q4 of the Hydraulic and Offshore Structures (HOS) track in the Civil Engineering MSc program at TU Delft:
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63755" target="_blank">CIEM4210 Marine Renewables</a>
 - <a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756" target="_blank">CIEM4220 Dams, Dikes and Breakwaters</a>

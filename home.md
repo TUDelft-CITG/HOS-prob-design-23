@@ -13,6 +13,9 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 } -->
 
+This website is for the 2022-23 academic year and is no longer maintained. Current HOS students should visit Brightspace or contact Robert Lanzafame directly.
+{: .warning }
+
 CIEM42X0 is a unit that is part of three B modules ([CIEM4210](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63755), [CIEM4220](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756), [CIEM4230](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63757)) offered in Q4 of the Hydraulic and Offshore Structures (HOS) track in the Civil Engineering MSc program at TU Delft.
 
 *This page shows the most recent announcement and the calendar. For more information check the appropriate pages on the left. Links to Brightspace and the course textbooks are at the top.*
